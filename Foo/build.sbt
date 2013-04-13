@@ -2,4 +2,5 @@ name := "Sub Project Foo"
 
 version := "1.0"
 
-scalaVersion := "2.9.1"
+scalaVersion := "2.10.0"
+
