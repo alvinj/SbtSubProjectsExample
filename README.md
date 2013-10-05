@@ -38,5 +38,5 @@ For more information, see https://github.com/harrah/xsbt/wiki/Getting-Started-Mu
 
 
 Alvin Alexander  
-http://devdaily.com
+http://alvinalexander.com
 

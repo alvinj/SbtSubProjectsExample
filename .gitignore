@@ -1,5 +1,4 @@
 bin/
-project/
 target/
 .cache
 .classpath
