@@ -5,5 +5,5 @@ import com.alvinalexander.foo._
 
 object Hello extends App {
   println(Bar("I'm a Bar"))
-  println(Bar("I'm a Foo"))
+  println(Foo("I'm a Foo"))
 }
